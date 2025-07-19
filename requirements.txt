@@ -1,0 +1,7 @@
+pandas>=1.3.0
+faker>=15.3.4
+schedule>=1.1.0
+pyspark>=3.4.0
+yagmail>=0.15.293
+IPython>=8.0.0
+python-dotenv>=1.0.0
